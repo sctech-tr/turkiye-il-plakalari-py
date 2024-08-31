@@ -2,6 +2,8 @@
 Python port of Türkiye İl Plakaları by @cambazm
 ## How do I use it?
 Download the python script from the latest <a href="https://github.com/sctech-tr/turkiye-il-plakalari-py/releases/latest">release</a> and run it. If it cannot fetch the cities, open an issue.
+## Where is the original repo?
+[Here.](https://github.com/cambazm/TurkiyeIlPlakalariAndroid) It's for android, if you have an android device, you can install that too.
 ## How does it work?
 1. The script fetches the city list from <a href="https://turkiye-il-plakalari.gamerselimiko.workers.dev/cities">here</a>
 2. It makes the main window
